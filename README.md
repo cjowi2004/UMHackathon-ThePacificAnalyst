@@ -1,4 +1,4 @@
-# UMHackathon 2025 - The Pacific Analyst
+# UMHackathon 2025 - The Pacific Analysts
 
 Hello! We're the The Pacific Analyst from APU!
 This is the official submission for UM Hackathon 2025.
