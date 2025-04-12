@@ -1,4 +1,4 @@
-# UMHackathon-ThePacificAnalyst
+# UMHackathon 2025 - The Pacific Analyst
 
 Pitch Deck: 
 https://www.canva.com/design/DAGka9VI-h0/SOFD--HxdySNJk_YdZtGaw/edit?utm_content=DAGka9VI-h0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
