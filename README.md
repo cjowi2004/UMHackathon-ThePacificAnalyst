@@ -1,6 +1,6 @@
 # UMHackathon 2025 - The Pacific Analyst
 
-Hello! We're the The Pacific Analyst from APU!
+Hello! We're the The Pacific Analyst from APU! \n
 This is the official submission for UM Hackathon 2025.
 
 Pitch Deck: 
