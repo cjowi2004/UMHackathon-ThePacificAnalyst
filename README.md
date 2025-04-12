@@ -1,5 +1,8 @@
 # UMHackathon 2025 - The Pacific Analyst
 
+Hello! We're the The Pacific Analyst from APU!
+This is the official submission for UM Hackathon 2025.
+
 Pitch Deck: 
 https://www.canva.com/design/DAGka9VI-h0/SOFD--HxdySNJk_YdZtGaw/edit?utm_content=DAGka9VI-h0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
